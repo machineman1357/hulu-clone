@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/machineman1357/hulu-clone/master/presentation/vid2.mp4)
+https://user-images.githubusercontent.com/16969890/145730727-11baace5-feb8-456f-a856-c3e807a4ac64.mp4
 
 # Hulu Clone
 

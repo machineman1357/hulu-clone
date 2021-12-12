@@ -2,7 +2,7 @@ const API_KEY = '811db6ef3871452a247944418dc5db67';
 
 export default {
     fetchTrending: `/trending/all/week?api_key=${API_KEY}&language=en-US`,
-    fetchTopRated: `/movie/top_rated/movie?api_key=${API_KEY}&language=en-US`,
+    fetchTopRated: `/movie/top_rated?api_key=${API_KEY}&language=en-US`,
     fetchActionMovies: `/discover/movie?api_key=${API_KEY}&with_genres=28`,
     fetchComedyMovies: `/discover/movie?api_key=${API_KEY}&with_genres=35`,
     fetchHorrorMovies: `/discover/movie?api_key=${API_KEY}&with_genres=27`,

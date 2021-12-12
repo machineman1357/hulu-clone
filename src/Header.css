@@ -60,7 +60,20 @@
     text-align: center;
 }
 
-.header>img {
+.header__huluImg {
     object-fit: contain;
     height: 80px;
+}
+
+.header__machineman1357 {
+    position: absolute;
+    right: 12px;
+    top: 79px;
+    display: flex;
+}
+
+.header__machineman1357 > a {
+    margin-right: 5px;
+    text-decoration: none;
+    color: white;
 }

@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/machineman1357/hulu-clone/master/readme-img.png)
+![alt text](https://raw.githubusercontent.com/machineman1357/hulu-clone/master/presentation/vid2.gif)
 
 # Hulu Clone
 
